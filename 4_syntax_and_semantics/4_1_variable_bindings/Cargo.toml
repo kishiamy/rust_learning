@@ -1,0 +1,8 @@
+[package]
+name = "variable_bindings"
+version = "0.1.0"
+authors = ["Beatriz F. <beatriz.febles@example.com>"]
+
+[dependencies]
+
+rand="0.3.0"
